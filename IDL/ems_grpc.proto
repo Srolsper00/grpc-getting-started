@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package IOSXRExtensibleManagabilityService;
 
-service gRPCConfigOper {
+service gRPCConfigOper {iOS
    
     // Configuration related commands
 
